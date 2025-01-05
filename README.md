@@ -3,6 +3,7 @@ The UE Template Converter is a Windows tool designed to streamline the process o
 
 ## System Requirements
 Operating System: Windows 10 or later.
+
 .NET Runtime: .NET 6.0 (Download here)
 
 ## Installation
@@ -11,11 +12,11 @@ Operating System: Windows 10 or later.
 - Extract the downloaded archive and run UE_Template_Converter.exe.
 
 ## Usage
-- Open the application.
-- Customize the template’s name, description, and other settings.
-- Choose a target directory for the template.
-- Select your Unreal Engine project folder as the source.
-- Click "Create" to generate your template.
+0. Open the application.
+1. Customize the template’s name, description, and other settings.
+2. Choose a target directory for the template.
+3. Select your Unreal Engine project folder as the source.
+4. Click "Create" to generate your template.
 
 ## Demo Video
 Watch the tutorial on how to use the UE Template Converter here: ([YouTube Tutorial](https://www.youtube.com/watch?v=q3gSiCbERK0))
