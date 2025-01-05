@@ -18,14 +18,14 @@ Operating System: Windows 10 or later.
 3. Select your Unreal Engine project folder as the source.
 4. Click "Create" to generate your template.
 
-## Disclaimer
-This tool is provided as-is, without warranty of any kind. Use at your own risk.
-
 ## Demo Video
 Watch the tutorial on how to use the UE Template Converter here: [YouTube Tutorial](https://www.youtube.com/watch?v=q3gSiCbERK0)
 
 ## Feedback & Support
 If you encounter any issues or have questions, join the discussion on our Discord server: [Join Here](https://discord.gg/awCDbpGMyY).
+
+## Disclaimer
+This tool is provided as-is, without warranty of any kind. Use at your own risk.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
