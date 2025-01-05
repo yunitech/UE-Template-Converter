@@ -19,7 +19,7 @@ Operating System: Windows 10 or later.
 4. Click "Create" to generate your template.
 
 ## Demo Video
-Watch the tutorial on how to use the UE Template Converter here: ([YouTube Tutorial](https://www.youtube.com/watch?v=q3gSiCbERK0))
+Watch the tutorial on how to use the UE Template Converter here: [YouTube Tutorial](https://www.youtube.com/watch?v=q3gSiCbERK0)
 
 
 ## Feedback & Support
